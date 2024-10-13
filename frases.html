@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frases Aleatorias</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        .frase {
+            font-size: 24px;
+            margin-bottom: 20px;
+            text-align: center;
+            max-width: 600px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="frase" id="frase">Cargando frase...</div>
+    <button onclick="mostrarFrase()">Mostrar Frase Aleatoria</button>
+
+    <script>
+        let frases = [];
+
+        // Cargar las frases desde el archivo
+        fetch('frases.txt')
+            .then(response => response.text())
+            .then(data => {
+                // Separar las frases y almacenar en el array
+                frases = data.split('\n').filter(frase => frase.trim() !== '');
+                mostrarFrase(); // Muestra una frase al cargar la página
+            })
+            .catch(error => {
+                console.error('Error al cargar las frases:', error);
+                document.getElementById('frase').textContent = 'Error al cargar las frases.';
+            });
+
+        function mostrarFrase() {
+            if (frases.length === 0) {
+                document.getElementById('frase').textContent = 'No hay frases disponibles.';
+                return;
+            }
+            const fraseDiv = document.getElementById('frase');
+            const fraseAleatoria = frases[Math.floor(Math.random() * frases.length)];
+            fraseDiv.textContent = fraseAleatoria; // Muestra solo la frase aleatoria
+        }
+    </script>
+</body>
+</html>
