@@ -1,100 +1,79 @@
-"Hakuna Matata. ¡Que significa sin preocupaciones!" - El Rey León
-"Si puedes soñarlo, puedes hacerlo." - Walt Disney
-"Cualquiera puede ser un héroe, pero sólo algunos pueden ser un verdadero amigo." - Hércules
-"La verdadera belleza proviene de ser tú mismo." - La Bella y la Bestia
-"Siempre que sigas tus sueños, tendrás éxito." - Cenicienta
-"No importa cuán lejos llegues, siempre serás parte de tu hogar." - Moana
-"El pasado puede doler, pero puedes elegir entre huir de él o aprender." - El Rey León
-"A veces la magia más grande está en el amor que compartimos." - La Bella Durmiente
-"La vida es un viaje, y cada viaje tiene un destino." - La Era de Hielo
-"No hay nada como un buen amigo para sacar lo mejor de ti." - Toy Story
-"La felicidad es el camino, no el destino." - El Jorobado de Notre Dame
-"Cada persona tiene una historia que contar." - Encanto
-"Puedes cambiar tu futuro, pero no puedes cambiar tu pasado." - Pocahontas
-"Confía en tus instintos." - El Rey León
-"La vida es un sueño y los sueños, realidad." - La Bella Durmiente
-"Todo el mundo tiene una canción que cantar." - Cenicienta
-"Un sueño es un deseo que hace el corazón." - Cenicienta
-"Las mejores cosas de la vida son gratis." - El Rey León
-"Las palabras son la mejor manera de expresar lo que sientes." - Frozen: El reino del hielo
-"Siempre será un placer compartir contigo." - Lilo & Stitch
-"El amor verdadero es lo que importa." - La Bella y la Bestia
-"La vida no es un problema que resolver, sino una realidad que experimentar." - Winnie the Pooh
-"Debes ser tú mismo." - Ratatouille
-"Haz lo que amas y nunca trabajarás un día en tu vida." - Zootopia
-"No importa cuán difícil sea el camino, siempre puedes volver a levantarte." - Raya y el último dragón
-"La amistad es la clave de la felicidad." - Toy Story 2
-"No hay nada más poderoso que la imaginación." - Peter Pan
-"La verdadera fuerza viene del corazón." - Mulan
-"Recuerda que siempre estaré contigo." - Cenicienta
-"La vida es un festín y la mayoría de los pobres tontos están muriendo de hambre." - La Dama y el Vagabundo
-"Haz siempre lo que amas, incluso si a otros no les gusta." - Zootopia
-"La valentía no es la ausencia de miedo, sino el triunfo sobre él." - Mulan
-"Las cosas más grandes y bellas de la vida no pueden ser vistas, sino sentidas." - El libro de la selva
-"No dejes que nadie te diga que no puedes hacer algo." - Enredados
-"Nunca olvides que un sueño puede hacerse realidad." - Aladino
-"La vida es un carnaval, y cada día es una nueva oportunidad." - Hércules
-"Nunca dejes de creer en ti mismo." - El Rey León 2: El tesoro de Simba
-"El amor verdadero es el motor del mundo." - La Bella y la Bestia
-"Cada día es una nueva aventura." - Moana
-"Cuando piensas en renunciar, piensa en por qué comenzaste." - Valiente
-"La felicidad no es un destino, es una forma de viajar." - Peter Pan
-"Las estrellas no pueden brillar sin la oscuridad." - Enredados
-"Siempre habrá un camino." - Zootopia
-"No importa lo que pase, siempre hay algo que aprender." - Raya y el último dragón
-"Sigue tus sueños, siempre hay un camino." - Aladino
-"Las amistades verdaderas son eternas." - Toy Story 3
-"Los sueños son como las estrellas. Puedes alcanzarlos." - La sirenita
-"Nadie puede cambiar tu destino, excepto tú." - Hércules
-"Todo puede suceder si te atreves a soñar." - Cenicienta
-"Cada quien es un genio en su propio mundo." - Coco
-"No tienes que ser perfecto para ser especial." - Encanto
-"Un poco de locura es lo que hace la vida interesante." - La casa de los dibujos
-"El futuro pertenece a quienes creen en la belleza de sus sueños." - Enredados
-"La vida es un regalo, ábrelo." - Zootopia
-"La magia comienza cuando decides ser tú mismo." - La bella y la bestia
-"Siempre habrá una razón para seguir adelante." - Valiente
-"No hay nada más mágico que el amor." - Cenicienta
-"La familia es el regalo más grande." - Raya y el último dragón
-"Las palabras tienen el poder de cambiar el mundo." - Hércules
-"No te preocupes por los errores, son parte del aprendizaje." - Winnie the Pooh
-"Los recuerdos son tesoros que llevamos en el corazón." - Coco
-"Cada final es un nuevo comienzo." - Ratatouille
-"Todo lo que necesitas es amor y un poco de magia." - Peter Pan
-"Nunca es tarde para hacer lo que amas." - El jorobado de Notre Dame
-"Las aventuras comienzan con un simple paso." - Moana
-"Todo se siente posible si tienes fe." - Enredados
-"La imaginación no tiene límites." - El libro de la selva
-"Los amigos son la familia que elegimos." - Toy Story
-"Siempre hay algo que descubrir." - Zootopia
-"La magia de la vida está en los pequeños detalles." - Cenicienta
-"Lo que hacemos en la vida tiene eco en la eternidad." - Hércules
-"La vida es más divertida con amigos a tu lado." - Monstruos, S.A.
-"Los sueños pueden hacerse realidad, solo si tienes el valor de perseguirlos." - La sirenita
-"La esperanza es lo último que se pierde." - Valiente
-"Cada día es un nuevo capítulo." - La bella y la bestia
-"Haz de tu vida una historia épica." - Hércules
-"La bondad es la clave para un mundo mejor." - Peter Pan
-"La magia siempre está a tu alrededor." - Frozen: El reino del hielo
-"Los miedos son solo sombras, enfrenta la luz." - Raya y el último dragón
-"A veces hay que caer para aprender a levantarse." - Valiente
-"No dejes que el miedo te detenga." - Zootopia
-"La vida es un viaje, disfruta del camino." - La dama y el vagabundo
-"Los héroes están en todas partes." - Hércules
-"El amor siempre encuentra el camino." - El jorobado de Notre Dame
-"Cada quien tiene su propio destino." - Aladino
-"Lo importante es seguir el camino correcto." - El rey león
-"No hay límites en el amor." - La bella y la bestia
-"Los pequeños actos de bondad pueden cambiar el mundo." - Winnie the Pooh
-"Tu corazón siempre sabe lo que es correcto." - Moana
-"Las aventuras comienzan donde termina tu zona de confort." - Coco
-"Todo lo que necesitas es amor." - Cenicienta
-"No hay nada que no puedas lograr con un poco de fe." - El libro de la selva
-"El valor es la habilidad de actuar a pesar del miedo." - Mulan
-"Las mejores historias son las que compartimos con amigos." - Toy Story
-"Las risas son la mejor medicina." - La bella y la bestia
-"Los sueños son las semillas de la realidad." - Encanto
-"A veces, lo que más quieres está justo al otro lado del miedo." - Raya y el último dragón
-"Los recuerdos son eternos." - Coco
-"Lo importante es ser fiel a uno mismo." - Pocahontas
-"La vida es un lienzo, píntele con colores brillantes." - La sirenita
+"Es nuestra elección, Harry, lo que muestra lo que realmente somos, mucho más que nuestras habilidades." - Harry Potter y la Cámara Secreta
+"Las cosas que perdemos siempre vuelven a nosotros, aunque sea de la manera que no esperamos." - Harry Potter y la Orden del Fénix
+"Siempre hay un poco de locura en el amor. Pero también siempre hay un poco de razón en la locura." - Harry Potter y el Prisionero de Azkaban
+"La muerte es sólo el siguiente gran aventura." - Harry Potter y la Piedra Filosofal
+"El amor es la magia más poderosa de todas." - Harry Potter y el Cáliz de Fuego
+"Harry, eres un mago." - Harry Potter y la Piedra Filosofal
+"Es el hecho de que puedes hacer lo que es realmente importante." - Harry Potter y la Cámara Secreta
+"No se trata de las cartas que te dan, sino de cómo juegas tus cartas." - Harry Potter y la Orden del Fénix
+"Los amigos son la familia que elegimos." - Harry Potter y el Prisionero de Azkaban
+"Las decisiones que tomas son importantes." - Harry Potter y el Cáliz de Fuego
+"Todo lo que necesitas es amor." - Harry Potter y la Orden del Fénix
+"Las palabras son, en mi nada humilde opinión, nuestra más inagotable fuente de magia." - Harry Potter y las Reliquias de la Muerte
+"El tiempo es un gran maestro, pero desafortunadamente, mata a todos sus estudiantes." - Harry Potter y el Prisionero de Azkaban
+"La verdadera valentía es enfrentar lo que más tememos." - Harry Potter y la Piedra Filosofal
+"En la oscuridad, siempre hay una luz." - Harry Potter y el Cáliz de Fuego
+"Es el sacrificio lo que nos hace humanos." - Harry Potter y la Orden del Fénix
+"Los muggles son más que lo que piensas." - Harry Potter y la Cámara Secreta
+"El amor es la magia más poderosa." - Harry Potter y el Prisionero de Azkaban
+"Los sueños son una forma de ver lo que está en nuestro corazón." - Harry Potter y la piedra Filosofal
+"La esperanza es algo bueno, tal vez lo mejor de las cosas, y las cosas buenas nunca mueren." - Harry Potter y la Cadena Secreta
+"No dejes que nadie te diga que no puedes hacer algo." - Harry Potter y la Orden del Fénix
+"Quien no tiene nada que perder es un hombre muy peligroso." - Harry Potter y el Cáliz de Fuego
+"El miedo a un nombre solo incrementa el miedo a la cosa misma." - Harry Potter y la Piedra Filosofal
+"No importa lo que suceda, siempre estaré contigo." - Harry Potter y la Cámara Secreta
+"Las amistades son la verdadera magia." - Harry Potter y la piedra Filosofal
+"Lo que importa es lo que eliges ser." - Harry Potter y el Prisionero de Azkaban
+"No hay nada más poderoso que el amor." - Harry Potter y las Reliquias de la Muerte
+"Hay cosas que nunca podremos cambiar, pero siempre hay algo que podemos hacer." - Harry Potter y la Cámara Secreta
+"Las cicatrices son como las huellas del viaje." - Harry Potter y la Orden del Fénix
+"Los miedos no son lo que parecen." - Harry Potter y el Cáliz de Fuego
+"Tu valor se mide por lo que haces, no por lo que dices." - Harry Potter y la Piedra Filosofal
+"Es nuestra responsabilidad ser lo mejor que podamos ser." - Harry Potter y el Prisionero de Azkaban
+"Las familias no siempre están formadas por la sangre." - Harry Potter y las Reliquias de la Muerte
+"Los verdaderos amigos son para siempre." - Harry Potter y la Piedra Filosofal
+"El amor no es algo que encuentres, el amor es algo que te encuentra." - Harry Potter y el Prisionero de Azkaban
+"Lo que hacemos en la vida tiene eco en la eternidad." - Harry Potter y la Piedra Filosofal
+"El pasado nunca se olvida, se lleva con nosotros." - Harry Potter y el Prisionero de Azkaban
+"Cada uno de nosotros tiene un poder dentro." - Harry Potter y el Cáliz de Fuego
+"No temas a la muerte, teme a una vida sin amor." - Harry Potter y la Orden del Fénix
+"La verdadera amistad es un regalo." - Harry Potter y las Reliquias de la Muerte
+"El sacrificio es lo que nos hace fuertes." - Harry Potter y la Piedra Filosofal
+"Siempre hay una razón para sonreír." - Harry Potter y el Cáliz de Fuego
+"Los amigos son la verdadera familia." - Harry Potter y la Cámara Secreta
+"Las personas cambian, pero los recuerdos permanecen." - Harry Potter y la Orden del Fénix
+"El amor es una fuerza poderosa." - Harry Potter y las Reliquias de la Muerte
+"La esperanza es la luz en la oscuridad." - Harry Potter y el Prisionero de Azkaban
+"Las verdaderas pruebas de carácter son las que nos hacen más fuertes." - Harry Potter y la Piedra Filosofal
+"No importa cuán oscura sea la noche, siempre habrá una luz." - Harry Potter y la Cámara Secreta
+"Lo que realmente importa es lo que hay en tu corazón." - Harry Potter y la Orden del Fénix
+"No dejes que los demás decidan por ti." - Harry Potter y el Prisionero de Azkaban
+"Los sueños son una forma de magia." - Harry Potter y el Cáliz de Fuego
+"Es en la oscuridad donde encontramos nuestra verdadera luz." - Harry Potter y las Reliquias de la Muerte
+"La magia es real, y está en todos nosotros." - Harry Potter y la Piedra Filosofal
+"El amor es la esencia de la vida." - Harry Potter y el Prisionero de Azkaban
+"Siempre hay un nuevo camino por descubrir." - Harry Potter y la Cámara Secreta
+"Tu valentía es lo que te define." - Harry Potter y el Cáliz de Fuego
+"Las elecciones que hacemos muestran lo que somos." - Harry Potter y la Orden del Fénix
+"El sacrificio verdadero es el acto más noble." - Harry Potter y las Reliquias de la Muerte
+"La amistad puede superar cualquier desafío." - Harry Potter y la Piedra Filosofal
+"Siempre habrá magia en los momentos difíciles." - Harry Potter y el Prisionero de Azkaban
+"La vida es un gran viaje, y cada día cuenta." - Harry Potter y la Cámara Secreta
+"El amor siempre encuentra el camino." - Harry Potter y las Reliquias de la Muerte
+"La fuerza de la amistad puede cambiar el mundo." - Harry Potter y la Piedra Filosofal
+"Lo que importa es cómo usamos nuestro poder." - Harry Potter y la Orden del Fénix
+"Las cicatrices son símbolos de nuestra fortaleza." - Harry Potter y el Cáliz de Fuego
+"Las palabras son poderosas, elige las tuyas sabiamente." - Harry Potter y el Prisionero de Azkaban
+"Cada persona tiene su propio viaje." - Harry Potter y la Piedra Filosofal
+"No hay magia más fuerte que el amor." - Harry Potter y las Reliquias de la Muerte
+"Las historias nunca terminan, siempre continúan." - Harry Potter y la Cámara Secreta
+"El destino no está escrito, lo hacemos nosotros mismos." - Harry Potter y el Cáliz de Fuego
+"Tu valentía te llevará lejos." - Harry Potter y la Piedra Filosofal
+"Las cosas que hacemos por amor nunca son en vano." - Harry Potter y la Orden del Fénix
+"El miedo es una ilusión que nos detiene." - Harry Potter y el Prisionero de Azkaban
+"La esperanza es el primer paso hacia el éxito." - Harry Potter y la Cámara Secreta
+"Tu historia es lo que haces de ella." - Harry Potter y las Reliquias de la Muerte
+"Las decisiones que tomas hoy determinan tu futuro." - Harry Potter y el Cáliz de Fuego
+"Siempre hay luz al final del túnel." - Harry Potter y la Piedra Filosofal
+"La vida es una aventura llena de magia." - Harry Potter y el Prisionero de Azkaban
+"Cada persona tiene su propio camino que seguir." - Harry Potter y la Orden del Fénix
